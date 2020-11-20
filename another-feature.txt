@@ -1,1 +1,2 @@
-This file added in feature2 branch
+This file added in feature2 branch.
+New Line.
